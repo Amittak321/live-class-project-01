@@ -18,3 +18,5 @@
 ## Time to finish - 3 Hours 
 
 [Live Link](https://comfy-torrone-2320b2.netlify.app/)
+---
+![Image](./completed.PNG)

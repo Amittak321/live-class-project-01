@@ -21,7 +21,7 @@ nav div img {
     list-style: none;
     display: flex;
     margin-left: 140px;
-    margin-right: 200px;
+    margin-right: 100px;
     width: 80%
 }
 
@@ -41,7 +41,7 @@ nav div img {
 
 .button-group{
     display: flex;
-    margin-left: 250px;
+    margin-left: 200px;
     margin-top: 25px;
 }
 
@@ -67,8 +67,8 @@ nav div img {
 
 .square  {
     position: absolute;
-    bottom: 0;
-    left: 125px;
+    bottom: -25px;
+    left: 85px;
 }
 .star {
     position: absolute;
@@ -78,13 +78,13 @@ nav div img {
 .star1 {
     position: absolute;
     left: 40%;
-    bottom: 30px;
+    bottom: 25px;
     transform: scale(.5);
 }
 .globe {
     position: absolute;
     left: 50%;
-    bottom: 530px;
+    bottom: 470px;
     transform: scale(.8);
 }
 
@@ -98,10 +98,10 @@ nav div img {
 }
 .image img {
     position: relative;
-    width: 400px;
+    width: 365px;
 }
 .hero-heading {
-    font-size: 60px;
+    font-size: 50px;
     text-align: center;
 }
 
@@ -138,7 +138,7 @@ nav div img {
 }
 
 .contact-heading {
-    margin-top: 100px;
+    margin-top: 70px;
     font-weight: 500;
     font-family: serif;
 }
